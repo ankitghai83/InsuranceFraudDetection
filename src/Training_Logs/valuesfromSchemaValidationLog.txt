@@ -1,0 +1,18 @@
+2024-06-07/13:05:38		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/18:46:54		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/19:53:58		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/20:02:37		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/20:24:56		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/20:39:37		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/20:41:51		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/20:48:22		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
+2024-06-13/21:41:53		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	NumberofColumns:: 39
+
